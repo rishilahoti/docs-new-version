@@ -13,8 +13,8 @@ const fontSans = FontSans({
 })
 
 export const metadata: Metadata = {
-  title: 'LiveDocs',
-  description: 'Your go-to collaborative editor',
+  title: 'Docs-NexGen',
+  description: 'A collaborative editor',
 }
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {

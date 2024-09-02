@@ -44,7 +44,7 @@
   }
 
   .gradient-blue {
-    @apply bg-gradient-to-t from-blue-500 to-blue-400;
+    @apply bg-gradient-to-t from-rose-500 to-rose-300;
   }
   .gradient-red {
     @apply bg-gradient-to-t from-red-500 to-red-400;
