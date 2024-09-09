@@ -1,6 +1,6 @@
 <div align="center">
   <br />
-    <a href="rishilahoti.social" target="_blank">
+    <a href="https://rishilahoti.social" target="_blank">
       <img src="https://github.com/user-attachments/assets/3baadf51-def6-48c2-8e40-de91479d3305" alt="Project Banner">
     </a>
   <br />
